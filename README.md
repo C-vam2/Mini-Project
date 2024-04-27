@@ -1,5 +1,5 @@
 
-# Project2: Descriptor Extraction System
+# Project2: Descriptor Extraction System (Improved Dense Trajectories)
 
 ## Overview:
 Project2 is a computer vision system designed for computing video descriptors using a combination of Histogram of Oriented Gradients (HOG), Histogram of Optical Flow (HOF), Motion Boundary Histograms (MBH), Human Detector, and Camera Motion Estimation techniques. It is implemented in C++ using the OpenCV libraries and built using Visual Studio. The system generates an executable file (.exe) upon successful compilation, which is executed from the command line with two input arguments.
