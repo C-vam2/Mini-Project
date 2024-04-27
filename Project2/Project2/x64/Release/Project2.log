@@ -1,0 +1,70 @@
+﻿  DenseTrackStab.cpp
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.h(36,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.h(36,26): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.h(43,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.h(44,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.h(53,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.h(53,21): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(127,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(172,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(173,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(216,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(243,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(300,17): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(300,17): warning C4244:         with
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(300,17): warning C4244:         [
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(300,17): warning C4244:             _Ty=int
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(300,17): warning C4244:         ]
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(329,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(358,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(370,35): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(370,35): warning C4244:         with
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(370,35): warning C4244:         [
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(370,35): warning C4244:             _Ty=float
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(370,35): warning C4244:         ]
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\Descriptors.h(396,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\OpticalFlow.h(442,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'DenseTrackStab.cpp')
+  
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.cpp(43,25): warning C4129: 'd': unrecognized character escape sequence
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.cpp(77,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.cpp(386,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shiva\source\repos\Project2\Project2\DenseTrackStab.cpp(152,10): warning C4101: 'j': unreferenced local variable
+  Generating code
+  4 of 1036 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project2.vcxproj -> C:\Users\shiva\source\repos\Project2\x64\Release\Project2.exe
