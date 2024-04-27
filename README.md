@@ -1,3 +1,4 @@
+Wang, H., & Schmid, C. (2013). Action Recognition with Improved Trajectories. In Proceedings of the IEEE International Conference on Computer Vision (ICCV) (pp. 3551-3558).
 
 # Project2: Descriptor Extraction System (Improved Dense Trajectories)
 
