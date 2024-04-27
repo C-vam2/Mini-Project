@@ -1,4 +1,4 @@
-"Project2" used HOG + HOF + MBH + Humandetector + CamereMotion Estimation for computing the descriptor for a video
+"Project2" used HOG + HOF + MBH + HumanDetector + CameraMotion Estimation for computing the descriptor for a video
 It requires to be build from Source code by using openCV liberaries in C++. (I Have used Visual Studio for building form the source code by linking required liberaries form the openCV lib)
 After the successful build of "Project2" Project2 is a generates a .exe file that needs to be executed from commandline and it takes two arguments as input during execution:
 1. Video Path for which we want to extract the descriptors
