@@ -28,3 +28,41 @@ Project2.exe video.mp4 bounding_boxes.txt
 
 ## Output:
 The system processes the video and computes descriptors based on the provided bound
+
+# Human Detection and Descriptor Extraction Pipeline
+
+## Overview
+
+This pipeline integrates the "Project2" video descriptor extraction system with the TensorFlow Object Detection API for real-time human detection. It allows for the extraction of descriptors from videos using "Project2", followed by training a machine learning model using the extracted descriptors.
+
+## Setup Instructions
+
+1. **Build "Project2" Source Code:**
+   - Build the "Project2" source code to generate the executable file (`Project2.exe`).
+   - Ensure that the necessary OpenCV libraries are linked correctly.
+
+2. **Install TensorFlow:**
+   - Install TensorFlow in Python. You can follow the official installation instructions provided by TensorFlow.
+
+3. **Install TensorFlow Object Detection API:**
+   - Follow the instructions in [this Medium article](https://medium.com/@madhawavidanapathirana/real-time-human-detection-in-computer-vision-part-2-c7eda27115c6) to install the TensorFlow Object Detection API.
+
+4. **Update Paths in Code:**
+   - Make sure that all paths in the code are correctly set, including:
+     - Path to your dataset.
+     - Path to your `Project2.exe` file.
+     - Path to your extracted descriptors, if applicable.
+
+5. **Execute run.py:**
+   - Open `run.py` and set `already_computed_descriptors=False` in the `main` function.
+   - Execute `run.py` to start the descriptor extraction process.
+   - Wait for the descriptors to be extracted from the videos.
+
+6. **Train ML Model:**
+   - Ensure that you have `train.txt` and `test.txt` files containing paths to videos and their corresponding labels for training and testing, respectively.
+   - Train your machine learning model using the extracted descriptors.
+
+## Note
+- The `train.txt` file should contain paths to training videos along with their corresponding labels for model training.
+- The `test.txt` file should contain paths to testing videos along with their corresponding labels for model evaluation.
+
